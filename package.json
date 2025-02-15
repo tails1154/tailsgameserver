@@ -1,0 +1,29 @@
+{
+  "name": "tailsgameserver",
+  "version": "1.0.0",
+  "description": "tailsgame server",
+  "keywords": [
+    "server",
+    "tailsgame",
+    "tailsgameserver"
+  ],
+  "homepage": "https://github.com/tails1154/tailsgameserver#readme",
+  "bugs": {
+    "url": "https://github.com/tails1154/tailsgameserver/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tails1154/tailsgameserver.git"
+  },
+  "license": "GPL-3.0",
+  "author": "tails1154",
+  "type": "expressjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9"
+  }
+}
